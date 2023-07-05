@@ -4,15 +4,11 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --exit"
+    "start": "node index.js"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "*"
   },
-  "devDependencies": {
-    "mocha": "^5.2.0",
-    "supertest": "^3.3.0"
-  }
 }
