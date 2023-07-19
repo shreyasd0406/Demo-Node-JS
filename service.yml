@@ -10,5 +10,4 @@ spec:
   - port: 5000
     targetPort: 3000
     nodePort: 32136
-  externalIPs:
-    -  13.233.192.35
+ 
